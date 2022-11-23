@@ -1,2 +1,1 @@
-# Sultanhasibuan
-Website Pertama Saya
+Web Pertama Saya
